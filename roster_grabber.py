@@ -22,5 +22,6 @@ def roster_grabber(team_name):
             #currently the tag_string conditional removes two-way players, will amend at some point going forward
             if (tag_string != "None"):
                 print(tag_string)
-            
-roster_grabber("SAC")
+                
+#roster_grabber("SAC")
+#function call unnecessary, but shows how function is called
